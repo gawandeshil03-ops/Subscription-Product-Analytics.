@@ -1,0 +1,1 @@
+The original CSV source files were not supplied by the previous analyst. Place users.csv, subscriptions.csv, experiment_dataset.csv, funnel_stages.csv, and cohort_retention.csv here if later recovered. Do not alter the original Hyper snapshots.
